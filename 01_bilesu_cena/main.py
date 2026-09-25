@@ -16,3 +16,4 @@ else:
 
 print(f"Biļetes cena ir {cena} EUR.")
 
+

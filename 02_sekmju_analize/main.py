@@ -17,3 +17,4 @@ print(f"Augstākais vērtējums: {augstaka}")
 print(f"Zemākais vērtējums: {zemaka}")
 print(f"Sekmīgo vērtējumu skaits: {sekmigo_skaits}")
 
+

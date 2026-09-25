@@ -19,3 +19,4 @@ if (atbilde == "for"):
 
 print(f"Tu ieguvi {punkti} no 3 punktiem.")
 
+
