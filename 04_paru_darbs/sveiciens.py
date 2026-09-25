@@ -3,3 +3,4 @@ def izveidot_sveicienu(vards):
     return "Sveiki " + vards
 
 
+
