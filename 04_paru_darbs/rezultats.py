@@ -6,4 +6,3 @@ def rezultata_teksts(punkti):
     else:
         return "Vēl mazliet jāpatrenējas."
 
-
